@@ -1,2 +1,2 @@
-# airbnb-clone
-Full Stack Projects..........
+# airbnb-clone 
+Used MERN  Technology
