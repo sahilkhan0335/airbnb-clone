@@ -23,13 +23,12 @@ This project demonstrates how to build a modern web app with a RESTful API.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/sahilkhan0335/aribnb.git
+git clone https://github.com/sahilkhan0335/aribnb.git](https://github.com/sahilkhan0335/airbnb-clone.git
 
 🤝 Contributing
 
 Contributions are welcome!
 Fork the repo, create a new branch, make your changes, and open a pull request.
 👨‍💻 Author
-
-Your Name
+Sahil Khan
 🔗 sahilkhan0335
