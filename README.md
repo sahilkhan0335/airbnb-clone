@@ -12,7 +12,7 @@ This project demonstrates how to build a modern web app with a **RESTful API**, 
 | **Frontend** | React.js, HTML5, CSS3, JavaScript (ES6+) |
 | **Backend** | Node.js, Express.js |
 | **Database** | MongoDB (with Mongoose ODM) |
-| **Tools & Utilities** | npm, Git, dotenv, concurrently |
+| **Tools & Utilities** | npm, Git, dotenv |
 
 ---
 
